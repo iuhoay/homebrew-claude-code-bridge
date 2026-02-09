@@ -1,8 +1,8 @@
 class ClaudeCodeBridge < Formula
   desc "Claude Code Bridge - Switch between different Claude Code service providers"
   homepage "https://github.com/iuhoay/claude-code-bridge"
-  url "https://github.com/iuhoay/claude-code-bridge/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "cf0cf9ac48d4843a7c8e0809693f65eb9cefe00b4ec8bea4e6b24f5399ba0198"
+  url "https://github.com/iuhoay/claude-code-bridge/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "6cd6f21f84cf4e08e4c44e52f95f8cc6c528c1f2b5d75e9be48e9c553e0d8399"
   license "MIT"
   head "https://github.com/iuhoay/claude-code-bridge.git", branch: "main"
 
